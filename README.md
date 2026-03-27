@@ -114,6 +114,3 @@ A window will open showing an animated line plot of the array values over time.
 ## Authors
 * Louay Arnaba Khordaji
 * Suzan Hamami
-## License
-
-Add a license if needed (e.g., MIT). If this is coursework, you may want to include a brief academic integrity note.
