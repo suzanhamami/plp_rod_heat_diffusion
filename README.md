@@ -1,4 +1,4 @@
-# plp1
+# 1D Rod Heat Diffusion
 
 A small C++ / OpenMP project that simulates a 1D diffusion (stencil) update over time and compares **sequential** vs **parallel** execution.
 
